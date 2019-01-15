@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.com/gdong42/maven-project-demo.svg?branch=master)](https://travis-ci.com/gdong42/maven-project-demo)
 # maven-project-demo
 An example project demonstrating maven project best practices [for me].
 
